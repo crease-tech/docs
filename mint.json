@@ -28,7 +28,8 @@
     ],
     "topbarCtaButton": {
       "name": "Dashboard",
-      "url": "https://app.crease.cloud"
+      "url": "https://app.crease.cloud",
+      "type": "link"
     },
     "openapi": "https://api.crease.cloud",
     "tabs": [
@@ -42,6 +43,11 @@
         "name": "Help Center",
         "icon": "question",
         "url": "https://crease.cloud/help"
+      },
+      {
+        "name": "GitHub",
+        "icon": "github",
+        "url": "https://github.com/crease-tech"
       }
     ],
     "navigation": [
