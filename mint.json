@@ -2,8 +2,8 @@
     "$schema": "https://mintlify.com/schema.json",
     "name": "Crease.cloud Docs",
     "logo": {
-      "dark": "/logos/logotype-dark.svg",
-      "light": "/logos/logotype.svg",
+      "dark": "/logos/wordmark-dark.svg",
+      "light": "/logos/wordmark.svg",
       "href": "https://crease.cloud"
     },
     "favicon": "/logos/favicon.svg",
